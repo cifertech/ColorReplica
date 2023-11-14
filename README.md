@@ -41,7 +41,7 @@ ColorReplica is an exciting project that allows you to explore and interact with
 
 
 <div align="center"> 
-  <img src="https://github.com/cifertech/ColorReplica/assets/62047147/b623dc98-f82a-4610-898a-fdfb82f559bb" alt="screenshot" width="Auto" height="Auto" />
+  <img src="https://github.com/cifertech/ColorReplica/assets/62047147/8f023454-8d4e-48d5-a9d5-f235a4117539" alt="screenshot" width="Auto" height="Auto" />
 </div>
 
 
